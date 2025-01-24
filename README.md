@@ -20,4 +20,32 @@ The Wildlife Strikes on Aircraft Dashboard, developed using Tableau, provides a 
 
 5. Economic and Operational Impact:
 	- Evaluates repair costs over the years, with a significant spike in 2009.
-	- Measures downtime and flight disruptions caused by wildlife strikes, such as aborted take-offs and precautionary landings. 
+	- Measures downtime and flight disruptions caused by wildlife strikes, such as aborted take-offs and precautionary landings.
+
+### Customer Risk Analysis Report
+
+Based on the analysis and insights provided by the dashboard, several key areas of concern and actionable insights are identified:
+
+1. At-Risk Airports and Flight Phases:
+	- Geographical and operational insights allow prioritization of resources to mitigate risks at high-impact airports and vulnerable flight phases like take-off and landing.
+
+2. Species-Based Risk Assessment:
+	- Larger bird species are associated with more severe damage. Risk mitigation strategies can be tailored to manage these species near hotspots.
+
+3. Operational Improvements:
+	- Understanding strike timing can inform scheduling and visibility-related measures to minimize incidents.
+
+### Key Findings and Recommendations
+
+1. Proactive Wildlife Management:
+	- Implement geo-specific strategies, such as radar-based detection systems and habitat modifications, at high-risk airports like Denver International.
+
+2. Seasonal and Time-Specific Strategies:
+	- Enhance preventive measures during peak months (July and August) and high-risk times (daytime).
+
+3. Focused Species Mitigation:
+	- Devise targeted strategies to manage larger birds and species frequently involved in strikes to minimize severe damage.
+
+4. Data-Driven Decision Making:
+	- Leverage insights from the dashboard to optimize resource allocation, improve incident reporting, and implement adaptive policies.
+
