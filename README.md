@@ -35,6 +35,8 @@ Based on the analysis and insights provided by the dashboard, several key areas 
 3. Operational Improvements:
 	- Understanding strike timing can inform scheduling and visibility-related measures to minimize incidents.
 
+![Wildlife Strikes on Aircraft](https://github.com/user-attachments/assets/bffe6302-345c-45cb-90fe-fd9578b155b1)
+
 ### Key Findings and Recommendations
 
 1. Proactive Wildlife Management:
@@ -48,4 +50,16 @@ Based on the analysis and insights provided by the dashboard, several key areas 
 
 4. Data-Driven Decision Making:
 	- Leverage insights from the dashboard to optimize resource allocation, improve incident reporting, and implement adaptive policies.
+
+### Key Objectives and Goals
+
+- Reduce High-Risk Incidents: Implement detection systems and wildlife management programs at identified hotspots.
+- Optimize Resources: Focus on high-risk flight phases and geographical locations.
+- Minimize Repair Costs: Prioritize mitigating incidents involving larger bird species to reduce damage severity.
+
+By utilizing these insights, aviation stakeholders can significantly enhance safety measures, reduce operational disruptions, and minimize the financial impact of wildlife strikes on aircraft.
+
+### Dashboard Link
+
+[https://public.tableau.com/app/profile/mashrith.rachapally/viz/WildlifeStrikesonAircraft_17370113739170/Dashboard1?publish=yes](url)
 
