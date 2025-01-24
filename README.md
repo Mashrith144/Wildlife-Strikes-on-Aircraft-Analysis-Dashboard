@@ -22,6 +22,8 @@ The Wildlife Strikes on Aircraft Dashboard, developed using Tableau, provides a 
 	- Evaluates repair costs over the years, with a significant spike in 2009.
 	- Measures downtime and flight disruptions caused by wildlife strikes, such as aborted take-offs and precautionary landings.
 
+![Wildlife Strikes on Aircraft](https://github.com/user-attachments/assets/bffe6302-345c-45cb-90fe-fd9578b155b1)
+
 ### Customer Risk Analysis Report
 
 Based on the analysis and insights provided by the dashboard, several key areas of concern and actionable insights are identified:
@@ -34,8 +36,6 @@ Based on the analysis and insights provided by the dashboard, several key areas 
 
 3. Operational Improvements:
 	- Understanding strike timing can inform scheduling and visibility-related measures to minimize incidents.
-
-![Wildlife Strikes on Aircraft](https://github.com/user-attachments/assets/bffe6302-345c-45cb-90fe-fd9578b155b1)
 
 ### Key Findings and Recommendations
 
